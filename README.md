@@ -12,6 +12,8 @@ Avvio automatico: Configurabile per avviarsi automaticamente all'accesso del sis
 Funzionamento
 Il client si connette a un server remoto attraverso diverse porte TCP per gestire funzionalità specifiche. Ogni funzione è implementata in modo modulare per garantire scalabilità e affidabilità.
 
+![Screenshot del progetto](https://github.com/RiccardoRossello/RAT/blob/main/screenshot.png)
+
 Le principali porte di comunicazione sono:
 
 12464: Trasferimento degli screenshot.
@@ -39,5 +41,4 @@ Avvia il client per stabilire la connessione al server.
 Avvertenze
 L'utilizzo del software deve essere conforme alle normative locali e internazionali. L'autore non è responsabile per un uso improprio o illegale del programma.
 
-![Screenshot del progetto](https://github.com/RiccardoRossello/RAT/blob/main/screenshot.png)
 
