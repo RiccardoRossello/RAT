@@ -31,10 +31,10 @@ pynput (per il keylogger)
 geopy (per la localizzazione geografica)
 Esecuzione
 Configura l'IP del server remoto nel file client.py.
+
 Compila il client in un eseguibile utilizzando PyInstaller:
-bash
-Copia codice
-python -m PyInstaller --onefile client.py
+python -m PyInstaller --onefile --noconsole client.py
+
 Avvia il client per stabilire la connessione al server.
 Avvertenze
 L'utilizzo del software deve essere conforme alle normative locali e internazionali. L'autore non è responsabile per un uso improprio o illegale del programma.
