@@ -39,5 +39,5 @@ Avvia il client per stabilire la connessione al server.
 Avvertenze
 L'utilizzo del software deve essere conforme alle normative locali e internazionali. L'autore non è responsabile per un uso improprio o illegale del programma.
 
-![Screenshot del progetto](images/screenshot.png)
+![Screenshot del progetto](https://github.com/RiccardoRossello/RAT/blob/main/screenshot.png)
 
