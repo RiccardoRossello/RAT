@@ -19,6 +19,7 @@ Le principali porte di comunicazione sono:
 - 12465: Esecuzione di comandi remoti.
 - 12466: Invio di informazioni di sistema.
 - 12467: Trasmissione dei file di keylogging.
+  
 Scopo Didattico
 Questo progetto è pensato esclusivamente per scopi educativi e di apprendimento. È progettato per studiare la comunicazione client-server, la sicurezza informatica, e l'automazione di funzioni su reti remote. L'uso non autorizzato o illegale di questo software è severamente vietato e contrario alle leggi vigenti.
 
