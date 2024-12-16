@@ -15,11 +15,10 @@ Il client si connette a un server remoto attraverso diverse porte TCP per gestir
 ![Screenshot del progetto](https://github.com/RiccardoRossello/RAT/blob/main/screenshot.png)
 
 Le principali porte di comunicazione sono:
-
-12464: Trasferimento degli screenshot.
-12465: Esecuzione di comandi remoti.
-12466: Invio di informazioni di sistema.
-12467: Trasmissione dei file di keylogging.
+- 12464: Trasferimento degli screenshot.
+- 12465: Esecuzione di comandi remoti.
+- 12466: Invio di informazioni di sistema.
+- 12467: Trasmissione dei file di keylogging.
 Scopo Didattico
 Questo progetto è pensato esclusivamente per scopi educativi e di apprendimento. È progettato per studiare la comunicazione client-server, la sicurezza informatica, e l'automazione di funzioni su reti remote. L'uso non autorizzato o illegale di questo software è severamente vietato e contrario alle leggi vigenti.
 
@@ -41,4 +40,13 @@ Avvia il client per stabilire la connessione al server.
 Avvertenze
 L'utilizzo del software deve essere conforme alle normative locali e internazionali. L'autore non è responsabile per un uso improprio o illegale del programma.
 
+Scopo del Progetto
+Questo programma non è stato sviluppato con l'intento di essere un virus o un software malevolo. L'intero progetto è una simulazione a scopo educativo e per esplorare aspetti tecnici di networking e automazione.
+
+Per sottolineare il suo scopo educativo:
+- Tutte le stringhe di debugging sono lasciate in chiaro, compresi termini come "keylogger", per trasparenza.
+- Non include tecniche di offuscamento o strumenti avanzati che potrebbero renderlo più difficile da analizzare o rilevare.
+- Il codice è progettato per essere comprensibile e facilmente analizzabile, affinché chiunque possa studiarlo senza difficoltà.
+- L'obiettivo principale è fornire una risorsa per imparare e testare in ambienti controllati, non per causare danni. Raccomandiamo di usarlo esclusivamente a fini 
+  didattici e di ricerca in ambienti che rispettino le norme legali ed etiche.
 
